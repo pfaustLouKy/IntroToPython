@@ -16,5 +16,6 @@ def GISimple(impSpd=(1, 9), golemSpd=(3, 5), headStart=5, exitPosition=50):
         elif golem_position >= imp_position:
             return False
 
-result = GISimple()
-print(result)
+#These two lines are for testing the function inside the module but not useful from the outside
+#result = GISimple()
+#print(result)
