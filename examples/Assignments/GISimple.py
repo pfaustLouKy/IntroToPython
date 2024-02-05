@@ -16,8 +16,5 @@ def GISimple(impSpd=(1, 9), golemSpd=(3, 5), headStart=5, exitPosition=50):
         elif golem_position >= imp_position:
             return False
 
-    # If neither condition is met, the chase is ongoing, but it won't happen in this simple simulation.
-
-# Example usage:
 result = GISimple()
 print(result)
