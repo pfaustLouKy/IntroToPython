@@ -1,0 +1,16 @@
+What material is entirely new to you: You can indicate what material or concepts were completely unknown to you prior to looking at the first five modules. For example, based on prior semester offerings, only a small proportion of students have encountered the use of dynamic visualizations/animations in Python prior to module five.
+
+What nuances related to known material are new to you: Perhaps you are relatively knowledgeable about a major Python construct or concept, but there was a particular facet or operations associated with it that was new to you or an aspect to it was cleared up to you during the early modules. Please share any such details.
+
+Project or application ideas: Are there project ideas (either personal, academic, or professional) that you have following the first several modules of the course? How about ways you could modify past projects or applications using new knowledge from the first five modules? These can be either concrete or general ideas.
+
+What you wish had been explored more: Are there Python fundamentals that you wish had been further explored during the first several modules? As time is limited in addressing these topics, the course designers have had to make trade-offs in deciding what to address in detail, what to summarize, and what to ignore. Please share your thoughts regarding what could have been addressed in more detail, if anything.
+
+Challenge assessment: Feel free to indicate whether or not the first several modules have changed your expectations for the difficulty in broaching remaining modules throughout the semester. Are you more confident, less confident, or just as confident (either about specific aspects, or in general)?
+
+What you expect to see in upcoming modules: Given that modules six and beyond are predominantly geared towards data analytics, feel free to convey what you expect to encounter in the coming weeks. Note that a similar question was asked in prompt for the module one forum, but expectations can change!
+
+	None of the material was completely new but there was definitely new little tricks and methods to do things that I had never seen before.  For instance, the use of frozenset to make the objects of a set immutable so that the set can store sets.  That was pretty cool.  Also, I have only used list comprehensions before, never dictionary or set comprehansions.  Symmetric_difference is also another thing that was entirely new. 
+	I am extremely interested in learning more about scikit-learn because it seems to be the best Python toolkit for machine learning.  Any project revolving around machine learning would be interesting to me.  
+	I really can't think of any fundamentals that I would like to have further explored so far.  It has been very interesting and refreshing to cover many topics in more depth than I am used to.  I tend to keep using the same hammer over and over instead of learning how to use new tools so it is always nice to be shown new methods of doing things.  I am definitely looking forward to the challenge of the remaining modules and have about the same confidence level as I did coming into this class.  
+	I imagine that the data analytics in the upcoming modules will involve some large datasets and will be quite fun!
